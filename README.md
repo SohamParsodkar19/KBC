@@ -1,1 +1,1 @@
-# KBC
+# Mini Games in Python
