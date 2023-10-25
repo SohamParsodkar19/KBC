@@ -7,7 +7,7 @@
 #else:
 #   simply reverse the string
 
-#Deconding:
+#Decoding:
 #if the word contains less than 3 characters, reverse it
 #else:
 #   if the word has more than or equal to 3 characters, remove the last character and add it at the beginning of the string.remove 3 random characters from start and end. Now remove the last letter and append it to the beginning
