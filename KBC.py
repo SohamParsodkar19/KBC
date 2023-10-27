@@ -68,7 +68,7 @@ for i in range(0,len(questions)):
         elif(i == 9):
             money = 320000
         elif(i == 14):
-            moeny = 10000000    
+            money = 10000000    
     else:
         print("Wrong answer")
         break 
